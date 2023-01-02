@@ -9,4 +9,4 @@ faiza-ahmad/faiza-ahmad is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/faizaahmad9084)](https://git.io/awesome-stats-card)
+
